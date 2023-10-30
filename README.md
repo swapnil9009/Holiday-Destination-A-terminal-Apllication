@@ -1,1 +1,1 @@
-# Holiday-Destination-An-terminal-Apllication
+# Holiday-Destination-A-terminal-Apllication
